@@ -18,4 +18,4 @@ gradle/7.4/**
 .idea/modules.xml
 .idea/modules/Grow.main.iml
 .idea/modules/Grow.test.iml
-**Grow.iml
+Grow.iml
