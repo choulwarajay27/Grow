@@ -15,4 +15,5 @@ gradle/7.4/**
 .idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml
 .idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml
 .idea/modules.xml
-.idea/modules/**
+.idea/modules/Grow.main.iml
+.idea/modules/Grow.test.iml
